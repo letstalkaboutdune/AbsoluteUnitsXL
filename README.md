@@ -14,3 +14,7 @@ A set of EXTRA-LARGE, detailed unit sprites for [Unciv](https://github.com/yairm
   * Great People (pre-Industrial Era): **DONE**
   * Barbarians (unique units): **DONE**
   * The rest: **IN PROGRESS**
+
+## Screenshots:
+
+See [AbsoluteUnits](https://github.com/letstalkaboutdune/AbsoluteUnits), but imagine bigger land units. =)
