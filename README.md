@@ -17,4 +17,4 @@ A set of EXTRA-LARGE, detailed unit sprites for [Unciv](https://github.com/yairm
 
 ## Screenshots:
 
-See [AbsoluteUnits](https://github.com/letstalkaboutdune/AbsoluteUnits), but imagine bigger land units. =)
+See [AbsoluteUnits](https://github.com/letstalkaboutdune/AbsoluteUnits), but imagine bigger people. =)
