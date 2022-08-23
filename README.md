@@ -7,8 +7,9 @@ A set of EXTRA-LARGE, detailed unit sprites for [Unciv](https://github.com/yairm
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **BASE UNITS:** 59/72 (81.9%)
-  * **OVERALL:** 64/124 (51.6%)
+  * **BASE UNITS:** 63/72 (87.5%)
+  * **OVERALL:** 68/124 (54.8%)
+  * Spaceship parts: **DONE**
   * Standard military units: **DONE**
   * Civilians (pre-Industrial Era): **DONE**
   * Great People (pre-Industrial Era): **DONE**
