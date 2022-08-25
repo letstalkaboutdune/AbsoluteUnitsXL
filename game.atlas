@@ -6,42 +6,42 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/HexaRealm/Units/Anti-Aircraft Gun
   rotate: false
-  xy: 935, 75
+  xy: 1151, 75
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Aircraft Gun-1
   rotate: false
-  xy: 998, 75
+  xy: 1214, 75
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Aircraft Gun-2
   rotate: false
-  xy: 1061, 75
+  xy: 1277, 75
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Tank Gun
   rotate: false
-  xy: 1124, 75
+  xy: 1943, 67
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Tank Gun-1
   rotate: false
-  xy: 1187, 75
+  xy: 1195, 18
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Tank Gun-2
   rotate: false
-  xy: 1250, 75
+  xy: 1258, 18
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
@@ -356,21 +356,21 @@ TileSets/HexaRealm/Units/Galley
   index: -1
 TileSets/HexaRealm/Units/Gatling Gun
   rotate: false
-  xy: 1943, 67
+  xy: 1321, 18
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Gatling Gun-1
   rotate: false
-  xy: 979, 18
+  xy: 1384, 47
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Gatling Gun-2
   rotate: false
-  xy: 1042, 18
+  xy: 1447, 47
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
@@ -755,21 +755,21 @@ TileSets/HexaRealm/Units/Longswordsman-2
   index: -1
 TileSets/HexaRealm/Units/Machine Gun
   rotate: false
-  xy: 1105, 18
+  xy: 1510, 11
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Machine Gun-1
   rotate: false
-  xy: 1168, 18
+  xy: 1573, 11
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Machine Gun-2
   rotate: false
-  xy: 1231, 18
+  xy: 1636, 11
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
@@ -1355,23 +1355,65 @@ TileSets/HexaRealm/Units/Work Boats-2
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker
+TileSets/HexaRealm/Units/Work Boats-Industrial era
   rotate: false
   xy: 835, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker-1
+TileSets/HexaRealm/Units/Work Boats-Industrial era-1
   rotate: false
   xy: 863, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker-2
+TileSets/HexaRealm/Units/Work Boats-Industrial era-2
   rotate: false
   xy: 907, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker
+  rotate: false
+  xy: 935, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-1
+  rotate: false
+  xy: 979, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-2
+  rotate: false
+  xy: 1007, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Industrial era
+  rotate: false
+  xy: 1051, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Industrial era-1
+  rotate: false
+  xy: 1079, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Industrial era-2
+  rotate: false
+  xy: 1123, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
