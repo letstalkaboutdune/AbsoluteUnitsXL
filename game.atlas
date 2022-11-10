@@ -6,84 +6,84 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Anti-Aircraft Gun
   rotate: false
-  xy: 666, 183
+  xy: 665, 122
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Aircraft Gun
   rotate: false
-  xy: 666, 183
+  xy: 665, 122
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-1
   rotate: false
-  xy: 521, 119
+  xy: 665, 65
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Aircraft Gun-1
   rotate: false
-  xy: 521, 119
+  xy: 665, 65
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-2
   rotate: false
-  xy: 521, 62
+  xy: 161, 4
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Aircraft Gun-2
   rotate: false
-  xy: 521, 62
+  xy: 161, 4
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun
   rotate: false
-  xy: 584, 119
+  xy: 1982, 895
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Tank Gun
   rotate: false
-  xy: 584, 119
+  xy: 1982, 895
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-1
   rotate: false
-  xy: 584, 62
+  xy: 1982, 838
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Tank Gun-1
   rotate: false
-  xy: 584, 62
+  xy: 1982, 838
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-2
   rotate: false
-  xy: 161, 4
+  xy: 1982, 781
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Tank Gun-2
   rotate: false
-  xy: 161, 4
+  xy: 1982, 781
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
@@ -172,996 +172,1178 @@ TileSets/HexaRealm/Units/Artillery-2
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Atlatlist
+  rotate: false
+  xy: 830, 880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Atlatlist-The Maya
+  rotate: false
+  xy: 830, 880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Atlatlist
+  rotate: false
+  xy: 830, 880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Atlatlist-The Maya
+  rotate: false
+  xy: 830, 880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Atlatlist-1
+  rotate: false
+  xy: 902, 880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Atlatlist-1
+  rotate: false
+  xy: 902, 880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Atlatlist-2
+  rotate: false
+  xy: 974, 880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Atlatlist-2
+  rotate: false
+  xy: 974, 880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Battleship
   rotate: false
-  xy: 830, 888
+  xy: 1046, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Battleship
   rotate: false
-  xy: 830, 888
+  xy: 1046, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Battleship-1
   rotate: false
-  xy: 902, 888
+  xy: 1118, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Battleship-1
   rotate: false
-  xy: 902, 888
+  xy: 1118, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Battleship-2
   rotate: false
-  xy: 974, 888
+  xy: 1190, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Battleship-2
   rotate: false
-  xy: 974, 888
+  xy: 1190, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bowman
+  rotate: false
+  xy: 1262, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bowman
+  rotate: false
+  xy: 1262, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bowman-1
+  rotate: false
+  xy: 1334, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bowman-1
+  rotate: false
+  xy: 1334, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bowman-2
+  rotate: false
+  xy: 1406, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bowman-2
+  rotate: false
+  xy: 1406, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Brute
   rotate: false
-  xy: 1046, 888
+  xy: 1478, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Brute
   rotate: false
-  xy: 1046, 888
+  xy: 1478, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cannon
   rotate: false
-  xy: 1118, 888
+  xy: 1550, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cannon
   rotate: false
-  xy: 1118, 888
+  xy: 1550, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cannon-1
   rotate: false
-  xy: 1190, 888
+  xy: 1622, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cannon-1
   rotate: false
-  xy: 1190, 888
+  xy: 1622, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cannon-2
   rotate: false
-  xy: 1262, 888
+  xy: 1694, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cannon-2
   rotate: false
-  xy: 1262, 888
+  xy: 1694, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel
   rotate: false
-  xy: 1334, 888
+  xy: 1766, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Caravel
   rotate: false
-  xy: 1334, 888
+  xy: 1766, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-1
   rotate: false
-  xy: 1406, 888
+  xy: 1838, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Caravel-1
   rotate: false
-  xy: 1406, 888
+  xy: 1838, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-2
   rotate: false
-  xy: 1478, 888
+  xy: 1910, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Caravel-2
   rotate: false
-  xy: 1478, 888
+  xy: 1910, 888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Carrier
   rotate: false
-  xy: 1550, 888
+  xy: 90, 345
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Carrier
   rotate: false
-  xy: 1550, 888
+  xy: 90, 345
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Carrier-1
   rotate: false
-  xy: 1622, 888
+  xy: 89, 281
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Carrier-1
   rotate: false
-  xy: 1622, 888
+  xy: 89, 281
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Carrier-2
   rotate: false
-  xy: 1694, 888
+  xy: 89, 217
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Carrier-2
   rotate: false
-  xy: 1694, 888
+  xy: 89, 217
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Catapult
   rotate: false
-  xy: 1766, 888
+  xy: 89, 153
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Catapult
   rotate: false
-  xy: 1766, 888
+  xy: 89, 153
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Catapult-1
   rotate: false
-  xy: 1838, 888
+  xy: 89, 89
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Catapult-1
   rotate: false
-  xy: 1838, 888
+  xy: 89, 89
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Catapult-2
   rotate: false
-  xy: 1910, 888
+  xy: 89, 25
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Catapult-2
   rotate: false
-  xy: 1910, 888
+  xy: 89, 25
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry
   rotate: false
-  xy: 90, 345
+  xy: 175, 637
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cavalry
   rotate: false
-  xy: 90, 345
+  xy: 175, 637
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-1
   rotate: false
-  xy: 89, 281
+  xy: 175, 573
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cavalry-1
   rotate: false
-  xy: 89, 281
+  xy: 175, 573
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-2
   rotate: false
-  xy: 89, 217
+  xy: 175, 509
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cavalry-2
   rotate: false
-  xy: 89, 217
+  xy: 175, 509
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer
   rotate: false
-  xy: 89, 153
+  xy: 175, 445
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Chariot Archer
   rotate: false
-  xy: 89, 153
+  xy: 175, 445
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-1
   rotate: false
-  xy: 89, 89
+  xy: 175, 381
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Chariot Archer-1
   rotate: false
-  xy: 89, 89
+  xy: 175, 381
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-2
   rotate: false
-  xy: 89, 25
+  xy: 162, 317
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Chariot Archer-2
   rotate: false
-  xy: 89, 25
+  xy: 162, 317
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman
   rotate: false
-  xy: 175, 637
+  xy: 161, 253
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Composite Bowman
   rotate: false
-  xy: 175, 637
+  xy: 161, 253
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-1
   rotate: false
-  xy: 175, 573
+  xy: 161, 189
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Composite Bowman-1
   rotate: false
-  xy: 175, 573
+  xy: 161, 189
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-2
   rotate: false
-  xy: 175, 509
+  xy: 161, 125
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Composite Bowman-2
   rotate: false
-  xy: 175, 509
+  xy: 161, 125
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman
   rotate: false
-  xy: 175, 445
+  xy: 161, 61
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Crossbowman
   rotate: false
-  xy: 175, 445
+  xy: 161, 61
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-1
   rotate: false
-  xy: 175, 381
+  xy: 398, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Crossbowman-1
   rotate: false
-  xy: 175, 381
+  xy: 398, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-2
   rotate: false
-  xy: 162, 317
+  xy: 470, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Crossbowman-2
   rotate: false
-  xy: 162, 317
+  xy: 470, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Destroyer
   rotate: false
-  xy: 161, 253
+  xy: 542, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Destroyer
   rotate: false
-  xy: 161, 253
+  xy: 542, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Destroyer-1
   rotate: false
-  xy: 161, 189
+  xy: 614, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Destroyer-1
   rotate: false
-  xy: 161, 189
+  xy: 614, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Destroyer-2
   rotate: false
-  xy: 161, 125
+  xy: 686, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Destroyer-2
   rotate: false
-  xy: 161, 125
+  xy: 686, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian
   rotate: false
-  xy: 161, 61
+  xy: 758, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian
   rotate: false
-  xy: 161, 61
+  xy: 758, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-1
   rotate: false
-  xy: 398, 824
+  xy: 830, 816
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-1
   rotate: false
-  xy: 398, 824
+  xy: 830, 816
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-2
   rotate: false
-  xy: 470, 824
+  xy: 902, 816
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-2
   rotate: false
-  xy: 470, 824
+  xy: 902, 816
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Denmark
   rotate: false
-  xy: 542, 824
+  xy: 974, 816
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Denmark
   rotate: false
-  xy: 542, 824
+  xy: 974, 816
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Modern era
   rotate: false
-  xy: 614, 824
+  xy: 1046, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Spain-Modern era
+  rotate: false
+  xy: 1046, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Modern era
   rotate: false
-  xy: 614, 824
+  xy: 1046, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Spain-Modern era
+  rotate: false
+  xy: 1046, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Modern era-1
   rotate: false
-  xy: 686, 824
+  xy: 1118, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Spain-Modern era-1
+  rotate: false
+  xy: 1118, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Modern era-1
   rotate: false
-  xy: 686, 824
+  xy: 1118, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Spain-Modern era-1
+  rotate: false
+  xy: 1118, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Modern era-2
   rotate: false
-  xy: 758, 824
+  xy: 1190, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Spain-Modern era-2
+  rotate: false
+  xy: 1190, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Modern era-2
   rotate: false
-  xy: 758, 824
+  xy: 1190, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Spain-Modern era-2
+  rotate: false
+  xy: 1190, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Polynesia
   rotate: false
-  xy: 830, 824
+  xy: 1262, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Polynesia
   rotate: false
-  xy: 830, 824
+  xy: 1262, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Renaissance era
   rotate: false
-  xy: 902, 824
+  xy: 1334, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Renaissance era
   rotate: false
-  xy: 902, 824
+  xy: 1334, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Renaissance era-1
   rotate: false
-  xy: 974, 824
+  xy: 1406, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Renaissance era-1
   rotate: false
-  xy: 974, 824
+  xy: 1406, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Renaissance era-2
   rotate: false
-  xy: 1046, 824
+  xy: 1478, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Renaissance era-2
   rotate: false
-  xy: 1046, 824
+  xy: 1478, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Spain-Renaissance era
   rotate: false
-  xy: 1118, 824
+  xy: 1550, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Spain-Renaissance era
   rotate: false
-  xy: 1118, 824
+  xy: 1550, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military
   rotate: false
-  xy: 1190, 824
+  xy: 1622, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military
   rotate: false
-  xy: 1190, 824
+  xy: 1622, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-1
   rotate: false
-  xy: 1262, 824
+  xy: 1694, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-1
   rotate: false
-  xy: 1262, 824
+  xy: 1694, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-2
   rotate: false
-  xy: 1334, 824
+  xy: 1766, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-2
   rotate: false
-  xy: 1334, 824
+  xy: 1766, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-Denmark
   rotate: false
-  xy: 1406, 824
+  xy: 1838, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Denmark
   rotate: false
-  xy: 1406, 824
+  xy: 1838, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-Modern era
   rotate: false
-  xy: 1478, 824
+  xy: 1910, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Military-Spain-Modern era
+  rotate: false
+  xy: 1910, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Modern era
   rotate: false
-  xy: 1478, 824
+  xy: 1910, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-Spain-Modern era
+  rotate: false
+  xy: 1910, 824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-Modern era-1
   rotate: false
-  xy: 1550, 824
+  xy: 1046, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Military-Spain-Modern era-1
+  rotate: false
+  xy: 1046, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Modern era-1
   rotate: false
-  xy: 1550, 824
+  xy: 1046, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-Spain-Modern era-1
+  rotate: false
+  xy: 1046, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-Modern era-2
   rotate: false
-  xy: 1622, 824
+  xy: 1118, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Military-Spain-Modern era-2
+  rotate: false
+  xy: 1118, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Modern era-2
   rotate: false
-  xy: 1622, 824
+  xy: 1118, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-Spain-Modern era-2
+  rotate: false
+  xy: 1118, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-Polynesia
   rotate: false
-  xy: 1694, 824
+  xy: 1190, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Polynesia
   rotate: false
-  xy: 1694, 824
+  xy: 1190, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-Renaissance era
   rotate: false
-  xy: 1766, 824
+  xy: 1262, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Renaissance era
   rotate: false
-  xy: 1766, 824
+  xy: 1262, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-Renaissance era-1
   rotate: false
-  xy: 1838, 824
+  xy: 1334, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Renaissance era-1
   rotate: false
-  xy: 1838, 824
+  xy: 1334, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-Renaissance era-2
   rotate: false
-  xy: 1910, 824
+  xy: 1406, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Renaissance era-2
   rotate: false
-  xy: 1910, 824
+  xy: 1406, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Military-Spain-Renaissance era
   rotate: false
-  xy: 234, 317
+  xy: 1478, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/EmbarkedUnit-Military-Spain-Renaissance era
   rotate: false
-  xy: 234, 317
+  xy: 1478, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate
   rotate: false
-  xy: 233, 253
+  xy: 1550, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Frigate
   rotate: false
-  xy: 233, 253
+  xy: 1550, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-1
   rotate: false
-  xy: 233, 189
+  xy: 1622, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Frigate-1
   rotate: false
-  xy: 233, 189
+  xy: 1622, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-2
   rotate: false
-  xy: 233, 125
+  xy: 1694, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Frigate-2
   rotate: false
-  xy: 233, 125
+  xy: 1694, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass
   rotate: false
-  xy: 233, 61
+  xy: 1766, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Galleass
   rotate: false
-  xy: 233, 61
+  xy: 1766, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-1
   rotate: false
-  xy: 193, 726
+  xy: 1838, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Galleass-1
   rotate: false
-  xy: 193, 726
+  xy: 1838, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-2
   rotate: false
-  xy: 265, 726
+  xy: 1910, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Galleass-2
   rotate: false
-  xy: 265, 726
+  xy: 1910, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galley
   rotate: false
-  xy: 247, 662
+  xy: 234, 317
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Galley
   rotate: false
-  xy: 247, 662
+  xy: 234, 317
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun
   rotate: false
-  xy: 224, 4
+  xy: 665, 8
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Gatling Gun
   rotate: false
-  xy: 224, 4
+  xy: 665, 8
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-1
   rotate: false
-  xy: 1982, 895
+  xy: 738, 378
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Gatling Gun-1
   rotate: false
-  xy: 1982, 895
+  xy: 738, 378
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-2
   rotate: false
-  xy: 1982, 838
+  xy: 738, 321
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Gatling Gun-2
   rotate: false
-  xy: 1982, 838
+  xy: 738, 321
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot
   rotate: false
-  xy: 247, 570
+  xy: 233, 225
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Giant Death Robot
   rotate: false
-  xy: 247, 570
+  xy: 233, 225
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-1
   rotate: false
-  xy: 247, 478
+  xy: 233, 133
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Giant Death Robot-1
   rotate: false
-  xy: 247, 478
+  xy: 233, 133
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-2
   rotate: false
-  xy: 247, 386
+  xy: 233, 41
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Giant Death Robot-2
   rotate: false
-  xy: 247, 386
+  xy: 233, 41
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist
   rotate: false
-  xy: 319, 662
+  xy: 193, 726
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Artist
   rotate: false
-  xy: 319, 662
+  xy: 193, 726
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-1
   rotate: false
-  xy: 319, 598
+  xy: 265, 726
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Artist-1
   rotate: false
-  xy: 319, 598
+  xy: 265, 726
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-2
   rotate: false
-  xy: 319, 534
+  xy: 247, 662
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Artist-2
   rotate: false
-  xy: 319, 534
+  xy: 247, 662
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1210,42 +1392,42 @@ TileSets/HexaRealm/Units/Great Artist-Industrial era-2
   index: -1
 TileSets/FantasyHex/Units/Great Engineer
   rotate: false
-  xy: 319, 470
+  xy: 247, 598
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Engineer
   rotate: false
-  xy: 319, 470
+  xy: 247, 598
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-1
   rotate: false
-  xy: 319, 406
+  xy: 247, 534
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Engineer-1
   rotate: false
-  xy: 319, 406
+  xy: 247, 534
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-2
   rotate: false
-  xy: 319, 342
+  xy: 247, 470
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Engineer-2
   rotate: false
-  xy: 319, 342
+  xy: 247, 470
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1294,42 +1476,42 @@ TileSets/HexaRealm/Units/Great Engineer-Industrial era-2
   index: -1
 TileSets/FantasyHex/Units/Great General
   rotate: false
-  xy: 306, 270
+  xy: 247, 398
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great General
   rotate: false
-  xy: 306, 270
+  xy: 247, 398
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-1
   rotate: false
-  xy: 305, 198
+  xy: 319, 654
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great General-1
   rotate: false
-  xy: 305, 198
+  xy: 319, 654
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-2
   rotate: false
-  xy: 305, 126
+  xy: 319, 582
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great General-2
   rotate: false
-  xy: 305, 126
+  xy: 319, 582
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -1378,42 +1560,42 @@ TileSets/HexaRealm/Units/Great General-Industrial era-2
   index: -1
 TileSets/FantasyHex/Units/Great Merchant
   rotate: false
-  xy: 305, 62
+  xy: 319, 518
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Merchant
   rotate: false
-  xy: 305, 62
+  xy: 319, 518
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-1
   rotate: false
-  xy: 378, 278
+  xy: 319, 454
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Merchant-1
   rotate: false
-  xy: 378, 278
+  xy: 319, 454
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant-2
   rotate: false
-  xy: 378, 214
+  xy: 319, 390
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Merchant-2
   rotate: false
-  xy: 378, 214
+  xy: 319, 390
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1462,84 +1644,84 @@ TileSets/HexaRealm/Units/Great Merchant-Industrial era-2
   index: -1
 TileSets/FantasyHex/Units/Great Prophet
   rotate: false
-  xy: 377, 150
+  xy: 306, 326
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Prophet
   rotate: false
-  xy: 377, 150
+  xy: 306, 326
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Prophet-1
   rotate: false
-  xy: 377, 86
+  xy: 306, 262
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Prophet-1
   rotate: false
-  xy: 377, 86
+  xy: 306, 262
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Prophet-2
   rotate: false
-  xy: 377, 22
+  xy: 305, 198
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Prophet-2
   rotate: false
-  xy: 377, 22
+  xy: 305, 198
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist
   rotate: false
-  xy: 450, 760
+  xy: 305, 134
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Scientist
   rotate: false
-  xy: 450, 760
+  xy: 305, 134
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-1
   rotate: false
-  xy: 522, 760
+  xy: 305, 70
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Scientist-1
   rotate: false
-  xy: 522, 760
+  xy: 305, 70
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-2
   rotate: false
-  xy: 594, 760
+  xy: 305, 6
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Scientist-2
   rotate: false
-  xy: 594, 760
+  xy: 305, 6
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1588,434 +1770,434 @@ TileSets/HexaRealm/Units/Great Scientist-Industrial era-2
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry
   rotate: false
-  xy: 666, 760
+  xy: 378, 326
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great War Infantry
   rotate: false
-  xy: 666, 760
+  xy: 378, 326
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-1
   rotate: false
-  xy: 738, 760
+  xy: 378, 262
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great War Infantry-1
   rotate: false
-  xy: 738, 760
+  xy: 378, 262
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-2
   rotate: false
-  xy: 810, 760
+  xy: 377, 198
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great War Infantry-2
   rotate: false
-  xy: 810, 760
+  xy: 377, 198
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship
   rotate: false
-  xy: 882, 760
+  xy: 377, 134
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Helicopter Gunship
   rotate: false
-  xy: 882, 760
+  xy: 377, 134
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-1
   rotate: false
-  xy: 954, 760
+  xy: 377, 70
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Helicopter Gunship-1
   rotate: false
-  xy: 954, 760
+  xy: 377, 70
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-2
   rotate: false
-  xy: 1026, 760
+  xy: 377, 6
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Helicopter Gunship-2
   rotate: false
-  xy: 1026, 760
+  xy: 377, 6
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman
   rotate: false
-  xy: 1098, 760
+  xy: 450, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Horseman
   rotate: false
-  xy: 1098, 760
+  xy: 450, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-1
   rotate: false
-  xy: 1170, 760
+  xy: 522, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Horseman-1
   rotate: false
-  xy: 1170, 760
+  xy: 522, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-2
   rotate: false
-  xy: 1242, 760
+  xy: 594, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Horseman-2
   rotate: false
-  xy: 1242, 760
+  xy: 594, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry
   rotate: false
-  xy: 1314, 760
+  xy: 666, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Infantry
   rotate: false
-  xy: 1314, 760
+  xy: 666, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-1
   rotate: false
-  xy: 1386, 760
+  xy: 738, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Infantry-1
   rotate: false
-  xy: 1386, 760
+  xy: 738, 760
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-2
   rotate: false
-  xy: 1458, 760
+  xy: 810, 752
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Infantry-2
   rotate: false
-  xy: 1458, 760
+  xy: 810, 752
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Inquisitor
   rotate: false
-  xy: 1530, 760
+  xy: 882, 752
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Inquisitor
   rotate: false
-  xy: 1530, 760
+  xy: 882, 752
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Inquisitor-1
   rotate: false
-  xy: 1602, 760
+  xy: 954, 752
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Inquisitor-1
   rotate: false
-  xy: 1602, 760
+  xy: 954, 752
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Inquisitor-2
   rotate: false
-  xy: 1674, 760
+  xy: 450, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Inquisitor-2
   rotate: false
-  xy: 1674, 760
+  xy: 450, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ironclad
   rotate: false
-  xy: 1746, 760
+  xy: 522, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Ironclad
   rotate: false
-  xy: 1746, 760
+  xy: 522, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ironclad-1
   rotate: false
-  xy: 1818, 760
+  xy: 594, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Ironclad-1
   rotate: false
-  xy: 1818, 760
+  xy: 594, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ironclad-2
   rotate: false
-  xy: 1890, 760
+  xy: 666, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Ironclad-2
   rotate: false
-  xy: 1890, 760
+  xy: 666, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jaguar
   rotate: false
-  xy: 1962, 755
+  xy: 738, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jaguar-Aztecs
   rotate: false
-  xy: 1962, 755
+  xy: 738, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Jaguar
   rotate: false
-  xy: 1962, 755
+  xy: 738, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Jaguar-Aztecs
   rotate: false
-  xy: 1962, 755
+  xy: 738, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jaguar-1
   rotate: false
-  xy: 450, 691
+  xy: 810, 683
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Jaguar-1
   rotate: false
-  xy: 450, 691
+  xy: 810, 683
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jaguar-2
   rotate: false
-  xy: 522, 691
+  xy: 882, 683
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Jaguar-2
   rotate: false
-  xy: 522, 691
+  xy: 882, 683
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Khan
   rotate: false
-  xy: 594, 688
+  xy: 954, 680
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Khan
   rotate: false
-  xy: 594, 688
+  xy: 954, 680
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Khan-1
   rotate: false
-  xy: 666, 688
+  xy: 1026, 688
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Khan-1
   rotate: false
-  xy: 666, 688
+  xy: 1026, 688
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Khan-2
   rotate: false
-  xy: 738, 688
+  xy: 1098, 688
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Khan-2
   rotate: false
-  xy: 738, 688
+  xy: 1098, 688
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight
   rotate: false
-  xy: 810, 696
+  xy: 1170, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Knight
   rotate: false
-  xy: 810, 696
+  xy: 1170, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-1
   rotate: false
-  xy: 882, 696
+  xy: 1242, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Knight-1
   rotate: false
-  xy: 882, 696
+  xy: 1242, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-2
   rotate: false
-  xy: 954, 696
+  xy: 1314, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Knight-2
   rotate: false
-  xy: 954, 696
+  xy: 1314, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer
   rotate: false
-  xy: 1026, 696
+  xy: 1386, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Lancer
   rotate: false
-  xy: 1026, 696
+  xy: 1386, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-1
   rotate: false
-  xy: 1098, 696
+  xy: 1458, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Lancer-1
   rotate: false
-  xy: 1098, 696
+  xy: 1458, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-2
   rotate: false
-  xy: 1170, 696
+  xy: 1530, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Lancer-2
   rotate: false
-  xy: 1170, 696
+  xy: 1530, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -2064,196 +2246,196 @@ TileSets/HexaRealm/Units/Landship-2
   index: -1
 TileSets/FantasyHex/Units/Longswordsman
   rotate: false
-  xy: 1242, 696
+  xy: 1602, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Longswordsman
   rotate: false
-  xy: 1242, 696
+  xy: 1602, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-1
   rotate: false
-  xy: 1314, 696
+  xy: 1674, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Longswordsman-1
   rotate: false
-  xy: 1314, 696
+  xy: 1674, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-2
   rotate: false
-  xy: 1386, 696
+  xy: 1746, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Longswordsman-2
   rotate: false
-  xy: 1386, 696
+  xy: 1746, 696
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun
   rotate: false
-  xy: 647, 119
+  xy: 738, 264
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Machine Gun
   rotate: false
-  xy: 647, 119
+  xy: 738, 264
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-1
   rotate: false
-  xy: 647, 62
+  xy: 738, 207
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Machine Gun-1
   rotate: false
-  xy: 647, 62
+  xy: 738, 207
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-2
   rotate: false
-  xy: 287, 4
+  xy: 737, 150
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Machine Gun-2
   rotate: false
-  xy: 287, 4
+  xy: 737, 150
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Maori Warrior
   rotate: false
-  xy: 1458, 691
+  xy: 1818, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Maori Warrior-Polynesia
   rotate: false
-  xy: 1458, 691
+  xy: 1818, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Maori Warrior
   rotate: false
-  xy: 1458, 691
+  xy: 1818, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Maori Warrior-Polynesia
   rotate: false
-  xy: 1458, 691
+  xy: 1818, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Maori Warrior-1
   rotate: false
-  xy: 1530, 691
+  xy: 1890, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Maori Warrior-1
   rotate: false
-  xy: 1530, 691
+  xy: 1890, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Maori Warrior-2
   rotate: false
-  xy: 1602, 691
+  xy: 1962, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Maori Warrior-2
   rotate: false
-  xy: 1602, 691
+  xy: 1962, 691
   size: 64, 61
   orig: 64, 61
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marauder
   rotate: false
-  xy: 1674, 696
+  xy: 1026, 624
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Marauder
   rotate: false
-  xy: 1674, 696
+  xy: 1026, 624
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine
   rotate: false
-  xy: 1746, 696
+  xy: 1098, 624
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Marine
   rotate: false
-  xy: 1746, 696
+  xy: 1098, 624
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-1
   rotate: false
-  xy: 1818, 696
+  xy: 1170, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Marine-1
   rotate: false
-  xy: 1818, 696
+  xy: 1170, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-2
   rotate: false
-  xy: 1890, 696
+  xy: 1242, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Marine-2
   rotate: false
-  xy: 1890, 696
+  xy: 1242, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -2302,84 +2484,84 @@ TileSets/HexaRealm/Units/Mechanized Infantry-2
   index: -1
 TileSets/FantasyHex/Units/Missile Cruiser
   rotate: false
-  xy: 1962, 691
+  xy: 1314, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Missile Cruiser
   rotate: false
-  xy: 1962, 691
+  xy: 1314, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Missile Cruiser-1
   rotate: false
-  xy: 810, 632
+  xy: 1386, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Missile Cruiser-1
   rotate: false
-  xy: 810, 632
+  xy: 1386, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Missile Cruiser-2
   rotate: false
-  xy: 882, 632
+  xy: 1458, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Missile Cruiser-2
   rotate: false
-  xy: 882, 632
+  xy: 1458, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Missionary
   rotate: false
-  xy: 954, 632
+  xy: 1530, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Missionary
   rotate: false
-  xy: 954, 632
+  xy: 1530, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Missionary-1
   rotate: false
-  xy: 1026, 632
+  xy: 1602, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Missionary-1
   rotate: false
-  xy: 1026, 632
+  xy: 1602, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Missionary-2
   rotate: false
-  xy: 1098, 632
+  xy: 1674, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Missionary-2
   rotate: false
-  xy: 1098, 632
+  xy: 1674, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -2470,252 +2652,252 @@ TileSets/HexaRealm/Units/Modern Armor-2
   index: -1
 TileSets/FantasyHex/Units/Musketman
   rotate: false
-  xy: 1170, 632
+  xy: 1746, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Musketman
   rotate: false
-  xy: 1170, 632
+  xy: 1746, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-1
   rotate: false
-  xy: 1242, 632
+  xy: 1818, 627
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Musketman-1
   rotate: false
-  xy: 1242, 632
+  xy: 1818, 627
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-2
   rotate: false
-  xy: 1314, 632
+  xy: 1890, 627
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Musketman-2
   rotate: false
-  xy: 1314, 632
+  xy: 1890, 627
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nuclear Submarine
   rotate: false
-  xy: 1386, 632
+  xy: 1962, 627
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Nuclear Submarine
   rotate: false
-  xy: 1386, 632
+  xy: 1962, 627
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nuclear Submarine-1
   rotate: false
-  xy: 1458, 627
+  xy: 1170, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Nuclear Submarine-1
   rotate: false
-  xy: 1458, 627
+  xy: 1170, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nuclear Submarine-2
   rotate: false
-  xy: 1530, 627
+  xy: 1242, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Nuclear Submarine-2
   rotate: false
-  xy: 1530, 627
+  xy: 1242, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper
   rotate: false
-  xy: 1602, 627
+  xy: 1314, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Paratrooper
   rotate: false
-  xy: 1602, 627
+  xy: 1314, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-1
   rotate: false
-  xy: 1674, 632
+  xy: 1386, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Paratrooper-1
   rotate: false
-  xy: 1674, 632
+  xy: 1386, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-2
   rotate: false
-  xy: 1746, 632
+  xy: 1458, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Paratrooper-2
   rotate: false
-  xy: 1746, 632
+  xy: 1458, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman
   rotate: false
-  xy: 1818, 632
+  xy: 1530, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Pikeman
   rotate: false
-  xy: 1818, 632
+  xy: 1530, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-1
   rotate: false
-  xy: 1890, 632
+  xy: 1602, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Pikeman-1
   rotate: false
-  xy: 1890, 632
+  xy: 1602, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-2
   rotate: false
-  xy: 1962, 627
+  xy: 1674, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Pikeman-2
   rotate: false
-  xy: 1962, 627
+  xy: 1674, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer
   rotate: false
-  xy: 391, 627
+  xy: 1746, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Privateer
   rotate: false
-  xy: 391, 627
+  xy: 1746, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-1
   rotate: false
-  xy: 391, 563
+  xy: 1818, 563
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Privateer-1
   rotate: false
-  xy: 391, 563
+  xy: 1818, 563
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-2
   rotate: false
-  xy: 463, 627
+  xy: 1890, 563
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Privateer-2
   rotate: false
-  xy: 463, 627
+  xy: 1890, 563
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman
   rotate: false
-  xy: 391, 499
+  xy: 1962, 563
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Rifleman
   rotate: false
-  xy: 391, 499
+  xy: 1962, 563
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-1
   rotate: false
-  xy: 463, 563
+  xy: 391, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Rifleman-1
   rotate: false
-  xy: 463, 563
+  xy: 391, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-2
   rotate: false
-  xy: 391, 435
+  xy: 463, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Rifleman-2
   rotate: false
-  xy: 391, 435
+  xy: 463, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -2932,224 +3114,266 @@ TileSets/HexaRealm/Units/SS Stasis Chamber-2
   index: -1
 TileSets/FantasyHex/Units/Scout
   rotate: false
-  xy: 463, 499
+  xy: 391, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Scout
   rotate: false
-  xy: 463, 499
+  xy: 391, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-1
   rotate: false
-  xy: 391, 371
+  xy: 391, 504
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Scout-1
   rotate: false
-  xy: 391, 371
+  xy: 391, 504
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-2
   rotate: false
-  xy: 463, 435
+  xy: 535, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Scout-2
   rotate: false
-  xy: 463, 435
+  xy: 535, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler
   rotate: false
-  xy: 463, 371
+  xy: 463, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Settler
   rotate: false
-  xy: 463, 371
+  xy: 463, 568
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-1
   rotate: false
-  xy: 450, 307
+  xy: 391, 440
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Settler-1
   rotate: false
-  xy: 450, 307
+  xy: 391, 440
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-2
   rotate: false
-  xy: 450, 243
+  xy: 463, 504
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Settler-2
   rotate: false
-  xy: 450, 243
+  xy: 463, 504
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Skirmisher
   rotate: false
-  xy: 450, 179
+  xy: 607, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Skirmisher
   rotate: false
-  xy: 450, 179
+  xy: 607, 632
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Slinger
+  rotate: false
+  xy: 535, 563
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Slinger
+  rotate: false
+  xy: 535, 563
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Slinger-1
+  rotate: false
+  xy: 607, 563
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Slinger-1
+  rotate: false
+  xy: 607, 563
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Slinger-2
+  rotate: false
+  xy: 463, 435
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Slinger-2
+  rotate: false
+  xy: 463, 435
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Spearman
   rotate: false
-  xy: 449, 115
+  xy: 535, 499
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Spearman
   rotate: false
-  xy: 449, 115
+  xy: 535, 499
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-1
   rotate: false
-  xy: 449, 51
+  xy: 535, 435
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Spearman-1
   rotate: false
-  xy: 449, 51
+  xy: 535, 435
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-2
   rotate: false
-  xy: 1674, 568
+  xy: 607, 499
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Spearman-2
   rotate: false
-  xy: 1674, 568
+  xy: 607, 499
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Submarine
   rotate: false
-  xy: 1746, 568
+  xy: 607, 435
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Submarine
   rotate: false
-  xy: 1746, 568
+  xy: 607, 435
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Submarine-1
   rotate: false
-  xy: 1818, 568
+  xy: 450, 371
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Submarine-1
   rotate: false
-  xy: 1818, 568
+  xy: 450, 371
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Submarine-2
   rotate: false
-  xy: 1890, 568
+  xy: 450, 307
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Submarine-2
   rotate: false
-  xy: 1890, 568
+  xy: 450, 307
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman
   rotate: false
-  xy: 1962, 563
+  xy: 522, 371
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Swordsman
   rotate: false
-  xy: 1962, 563
+  xy: 522, 371
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-1
   rotate: false
-  xy: 535, 624
+  xy: 522, 307
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Swordsman-1
   rotate: false
-  xy: 535, 624
+  xy: 522, 307
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-2
   rotate: false
-  xy: 607, 624
+  xy: 594, 371
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Swordsman-2
   rotate: false
-  xy: 607, 624
+  xy: 594, 371
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -3198,294 +3422,294 @@ TileSets/HexaRealm/Units/Tank-2
   index: -1
 TileSets/FantasyHex/Units/Trebuchet
   rotate: false
-  xy: 535, 560
+  xy: 594, 307
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Trebuchet
   rotate: false
-  xy: 535, 560
+  xy: 594, 307
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trebuchet-1
   rotate: false
-  xy: 679, 624
+  xy: 450, 243
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Trebuchet-1
   rotate: false
-  xy: 679, 624
+  xy: 450, 243
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trebuchet-2
   rotate: false
-  xy: 535, 496
+  xy: 522, 243
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Trebuchet-2
   rotate: false
-  xy: 535, 496
+  xy: 522, 243
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme
   rotate: false
-  xy: 607, 560
+  xy: 594, 243
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Trireme
   rotate: false
-  xy: 607, 560
+  xy: 594, 243
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-1
   rotate: false
-  xy: 535, 432
+  xy: 449, 179
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Trireme-1
   rotate: false
-  xy: 535, 432
+  xy: 449, 179
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-2
   rotate: false
-  xy: 607, 496
+  xy: 449, 115
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Trireme-2
   rotate: false
-  xy: 607, 496
+  xy: 449, 115
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior
   rotate: false
-  xy: 679, 560
+  xy: 521, 179
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior
   rotate: false
-  xy: 679, 560
+  xy: 521, 179
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-1
   rotate: false
-  xy: 607, 432
+  xy: 449, 51
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior-1
   rotate: false
-  xy: 607, 432
+  xy: 449, 51
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-2
   rotate: false
-  xy: 679, 496
+  xy: 521, 115
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior-2
   rotate: false
-  xy: 679, 496
+  xy: 521, 115
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats
   rotate: false
-  xy: 679, 432
+  xy: 593, 179
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats
   rotate: false
-  xy: 679, 432
+  xy: 593, 179
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-1
   rotate: false
-  xy: 535, 368
+  xy: 521, 51
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats-1
   rotate: false
-  xy: 535, 368
+  xy: 521, 51
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-2
   rotate: false
-  xy: 607, 368
+  xy: 593, 115
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats-2
   rotate: false
-  xy: 607, 368
+  xy: 593, 115
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Industrial era
   rotate: false
-  xy: 679, 368
+  xy: 593, 51
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats-Industrial era
   rotate: false
-  xy: 679, 368
+  xy: 593, 51
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Industrial era-1
   rotate: false
-  xy: 522, 304
+  xy: 679, 627
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats-Industrial era-1
   rotate: false
-  xy: 522, 304
+  xy: 679, 627
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Industrial era-2
   rotate: false
-  xy: 522, 240
+  xy: 679, 563
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats-Industrial era-2
   rotate: false
-  xy: 522, 240
+  xy: 679, 563
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker
   rotate: false
-  xy: 594, 304
+  xy: 679, 499
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker
   rotate: false
-  xy: 594, 304
+  xy: 679, 499
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-1
   rotate: false
-  xy: 594, 240
+  xy: 679, 435
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-1
   rotate: false
-  xy: 594, 240
+  xy: 679, 435
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-2
   rotate: false
-  xy: 666, 304
+  xy: 666, 371
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-2
   rotate: false
-  xy: 666, 304
+  xy: 666, 371
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Industrial era
   rotate: false
-  xy: 666, 240
+  xy: 666, 307
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Industrial era
   rotate: false
-  xy: 666, 240
+  xy: 666, 307
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Industrial era-1
   rotate: false
-  xy: 522, 176
+  xy: 666, 243
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Industrial era-1
   rotate: false
-  xy: 522, 176
+  xy: 666, 243
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Industrial era-2
   rotate: false
-  xy: 594, 176
+  xy: 665, 179
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Industrial era-2
   rotate: false
-  xy: 594, 176
+  xy: 665, 179
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
