@@ -1,9 +1,9 @@
 # AbsoluteUnitsXL
 
-A set of EXTRA-LARGE, detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), designed for the HexaRealm tileset (also works with FantasyHex). 
+A set of EXTRA-LARGE, detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv). 
 
 ## To use: 
-1. Download and enable AbsoluteUnitsXL as a permanent audiovisual mod
+1. Download, then enable AbsoluteUnitsXL as a permanent audiovisual mod
 2. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
