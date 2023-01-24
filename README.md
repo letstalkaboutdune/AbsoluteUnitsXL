@@ -11,7 +11,7 @@ A set of EXTRA-LARGE, detailed unit sprites for [Unciv](https://github.com/yairm
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
-  * Civilians (pre-Industrial Era): **DONE**
+  * Civilians: **DONE**
   * Great People: **DONE**
   * Barbarians (unique units): **DONE**
   * Unique units: **IN PROGRESS**
