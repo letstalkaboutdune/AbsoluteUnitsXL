@@ -7,7 +7,7 @@ A set of EXTRA-LARGE, detailed unit sprites for [Unciv](https://github.com/yairm
 2. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 105/130 (80.8%)
+  * **OVERALL:** 107/131 (81.7%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
