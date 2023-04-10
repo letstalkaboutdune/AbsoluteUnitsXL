@@ -1700,14 +1700,14 @@ TileSets/AbsoluteUnits/Units/Longswordsman-2
   index: -1
 TileSets/AbsoluteUnits/Units/Machine Gun
   rotate: false
-  xy: 966, 137
+  xy: 606, 4
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Machine Gun-1
   rotate: false
-  xy: 966, 80
+  xy: 669, 4
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
@@ -2335,23 +2335,44 @@ TileSets/AbsoluteUnits/Units/Scout-2
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Settler
+TileSets/AbsoluteUnits/Units/Sea Beggar
   rotate: false
   xy: 462, 158
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Settler-1
+TileSets/AbsoluteUnits/Units/Sea Beggar-1
   rotate: false
   xy: 534, 250
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Settler-2
+TileSets/AbsoluteUnits/Units/Sea Beggar-2
   rotate: false
   xy: 462, 94
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Settler
+  rotate: false
+  xy: 534, 186
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Settler-1
+  rotate: false
+  xy: 462, 30
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Settler-2
+  rotate: false
+  xy: 534, 122
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -2377,93 +2398,114 @@ TileSets/AbsoluteUnits/Units/Settler-Industrial era-2
   orig: 77, 70
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Skirmisher
+TileSets/AbsoluteUnits/Units/Ship of the Line
   rotate: false
-  xy: 534, 186
+  xy: 534, 58
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Slinger
-  rotate: false
-  xy: 462, 25
-  size: 64, 61
-  orig: 64, 61
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Slinger-1
-  rotate: false
-  xy: 534, 117
-  size: 64, 61
-  orig: 64, 61
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Slinger-2
-  rotate: false
-  xy: 534, 48
-  size: 64, 61
-  orig: 64, 61
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Spearman
+TileSets/AbsoluteUnits/Units/Ship of the Line-1
   rotate: false
   xy: 606, 396
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Spearman-1
+TileSets/AbsoluteUnits/Units/Ship of the Line-2
   rotate: false
   xy: 606, 332
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Spearman-2
+TileSets/AbsoluteUnits/Units/Skirmisher
   rotate: false
   xy: 606, 268
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Submarine
+TileSets/AbsoluteUnits/Units/Slinger
   rotate: false
-  xy: 606, 204
-  size: 64, 56
-  orig: 64, 56
+  xy: 606, 199
+  size: 64, 61
+  orig: 64, 61
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Submarine-1
+TileSets/AbsoluteUnits/Units/Slinger-1
   rotate: false
-  xy: 606, 140
-  size: 64, 56
-  orig: 64, 56
+  xy: 606, 130
+  size: 64, 61
+  orig: 64, 61
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Submarine-2
+TileSets/AbsoluteUnits/Units/Slinger-2
   rotate: false
-  xy: 606, 76
-  size: 64, 56
-  orig: 64, 56
+  xy: 606, 61
+  size: 64, 61
+  orig: 64, 61
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Swordsman
+TileSets/AbsoluteUnits/Units/Spearman
   rotate: false
   xy: 678, 393
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Swordsman-1
+TileSets/AbsoluteUnits/Units/Spearman-1
   rotate: false
   xy: 678, 329
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Swordsman-2
+TileSets/AbsoluteUnits/Units/Spearman-2
   rotate: false
   xy: 678, 265
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Submarine
+  rotate: false
+  xy: 678, 201
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Submarine-1
+  rotate: false
+  xy: 678, 137
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Submarine-2
+  rotate: false
+  xy: 678, 73
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Swordsman
+  rotate: false
+  xy: 750, 379
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Swordsman-1
+  rotate: false
+  xy: 750, 315
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Swordsman-2
+  rotate: false
+  xy: 750, 251
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -2491,84 +2533,105 @@ TileSets/AbsoluteUnits/Units/Tank-2
   index: -1
 TileSets/AbsoluteUnits/Units/Trebuchet
   rotate: false
-  xy: 678, 201
+  xy: 750, 187
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trebuchet-1
   rotate: false
-  xy: 678, 137
+  xy: 750, 123
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trebuchet-2
   rotate: false
-  xy: 678, 73
+  xy: 822, 361
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trireme
   rotate: false
-  xy: 750, 379
+  xy: 822, 297
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trireme-1
   rotate: false
-  xy: 750, 315
+  xy: 822, 233
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trireme-2
   rotate: false
-  xy: 750, 251
+  xy: 822, 169
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Turtle Ship
+  rotate: false
+  xy: 894, 293
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Turtle Ship-1
+  rotate: false
+  xy: 894, 225
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Turtle Ship-2
+  rotate: false
+  xy: 894, 157
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/War Chariot
   rotate: false
-  xy: 606, 4
+  xy: 966, 250
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Chariot-Egypt
   rotate: false
-  xy: 606, 4
+  xy: 966, 250
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Chariot-1
   rotate: false
-  xy: 750, 179
+  xy: 966, 178
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Chariot-Egypt-2
   rotate: false
-  xy: 750, 179
+  xy: 966, 178
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Chariot-2
   rotate: false
-  xy: 750, 107
+  xy: 1038, 227
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Chariot-Egypt-1
   rotate: false
-  xy: 750, 107
+  xy: 1038, 227
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -2596,105 +2659,105 @@ TileSets/AbsoluteUnits/Units/War Elephant-2
   index: -1
 TileSets/AbsoluteUnits/Units/Warrior
   rotate: false
-  xy: 678, 9
+  xy: 822, 105
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warrior-1
   rotate: false
-  xy: 750, 43
+  xy: 750, 59
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warrior-2
   rotate: false
-  xy: 822, 361
+  xy: 894, 93
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boats
   rotate: false
-  xy: 822, 297
+  xy: 966, 114
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boats-1
   rotate: false
-  xy: 822, 233
+  xy: 1038, 163
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boats-2
   rotate: false
-  xy: 822, 169
+  xy: 822, 41
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boats-Industrial era
   rotate: false
-  xy: 822, 105
+  xy: 894, 29
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boats-Industrial era-1
   rotate: false
-  xy: 822, 41
+  xy: 966, 50
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boats-Industrial era-2
   rotate: false
-  xy: 894, 297
+  xy: 1038, 99
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker
   rotate: false
-  xy: 894, 233
+  xy: 1110, 187
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker-1
   rotate: false
-  xy: 894, 169
+  xy: 1182, 187
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker-2
   rotate: false
-  xy: 894, 105
+  xy: 1110, 123
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker-Industrial era
   rotate: false
-  xy: 894, 41
+  xy: 1182, 123
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker-Industrial era-1
   rotate: false
-  xy: 966, 258
+  xy: 1254, 173
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker-Industrial era-2
   rotate: false
-  xy: 966, 194
+  xy: 1254, 109
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
